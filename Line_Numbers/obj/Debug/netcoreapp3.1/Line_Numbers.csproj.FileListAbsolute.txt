@@ -1,0 +1,13 @@
+C:\Users\A474627\source\repos\StreamsFilesAndDirectories\Line_Numbers\bin\Debug\netcoreapp3.1\Line_Numbers.exe
+C:\Users\A474627\source\repos\StreamsFilesAndDirectories\Line_Numbers\bin\Debug\netcoreapp3.1\Line_Numbers.deps.json
+C:\Users\A474627\source\repos\StreamsFilesAndDirectories\Line_Numbers\bin\Debug\netcoreapp3.1\Line_Numbers.runtimeconfig.json
+C:\Users\A474627\source\repos\StreamsFilesAndDirectories\Line_Numbers\bin\Debug\netcoreapp3.1\Line_Numbers.runtimeconfig.dev.json
+C:\Users\A474627\source\repos\StreamsFilesAndDirectories\Line_Numbers\bin\Debug\netcoreapp3.1\Line_Numbers.dll
+C:\Users\A474627\source\repos\StreamsFilesAndDirectories\Line_Numbers\bin\Debug\netcoreapp3.1\Line_Numbers.pdb
+C:\Users\A474627\source\repos\StreamsFilesAndDirectories\Line_Numbers\obj\Debug\netcoreapp3.1\Line_Numbers.AssemblyInfoInputs.cache
+C:\Users\A474627\source\repos\StreamsFilesAndDirectories\Line_Numbers\obj\Debug\netcoreapp3.1\Line_Numbers.AssemblyInfo.cs
+C:\Users\A474627\source\repos\StreamsFilesAndDirectories\Line_Numbers\obj\Debug\netcoreapp3.1\Line_Numbers.csproj.CoreCompileInputs.cache
+C:\Users\A474627\source\repos\StreamsFilesAndDirectories\Line_Numbers\obj\Debug\netcoreapp3.1\Line_Numbers.dll
+C:\Users\A474627\source\repos\StreamsFilesAndDirectories\Line_Numbers\obj\Debug\netcoreapp3.1\Line_Numbers.pdb
+C:\Users\A474627\source\repos\StreamsFilesAndDirectories\Line_Numbers\obj\Debug\netcoreapp3.1\Line_Numbers.genruntimeconfig.cache
+C:\Users\A474627\source\repos\StreamsFilesAndDirectories\Line_Numbers\obj\Debug\netcoreapp3.1\Line_Numbers.csprojAssemblyReference.cache

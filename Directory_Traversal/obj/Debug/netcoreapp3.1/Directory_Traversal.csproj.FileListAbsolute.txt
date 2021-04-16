@@ -1,0 +1,13 @@
+C:\Users\A474627\source\repos\StreamsFilesAndDirectories\Directory_Traversal\bin\Debug\netcoreapp3.1\Directory_Traversal.exe
+C:\Users\A474627\source\repos\StreamsFilesAndDirectories\Directory_Traversal\bin\Debug\netcoreapp3.1\Directory_Traversal.deps.json
+C:\Users\A474627\source\repos\StreamsFilesAndDirectories\Directory_Traversal\bin\Debug\netcoreapp3.1\Directory_Traversal.runtimeconfig.json
+C:\Users\A474627\source\repos\StreamsFilesAndDirectories\Directory_Traversal\bin\Debug\netcoreapp3.1\Directory_Traversal.runtimeconfig.dev.json
+C:\Users\A474627\source\repos\StreamsFilesAndDirectories\Directory_Traversal\bin\Debug\netcoreapp3.1\Directory_Traversal.dll
+C:\Users\A474627\source\repos\StreamsFilesAndDirectories\Directory_Traversal\bin\Debug\netcoreapp3.1\Directory_Traversal.pdb
+C:\Users\A474627\source\repos\StreamsFilesAndDirectories\Directory_Traversal\obj\Debug\netcoreapp3.1\Directory_Traversal.AssemblyInfoInputs.cache
+C:\Users\A474627\source\repos\StreamsFilesAndDirectories\Directory_Traversal\obj\Debug\netcoreapp3.1\Directory_Traversal.AssemblyInfo.cs
+C:\Users\A474627\source\repos\StreamsFilesAndDirectories\Directory_Traversal\obj\Debug\netcoreapp3.1\Directory_Traversal.csproj.CoreCompileInputs.cache
+C:\Users\A474627\source\repos\StreamsFilesAndDirectories\Directory_Traversal\obj\Debug\netcoreapp3.1\Directory_Traversal.dll
+C:\Users\A474627\source\repos\StreamsFilesAndDirectories\Directory_Traversal\obj\Debug\netcoreapp3.1\Directory_Traversal.pdb
+C:\Users\A474627\source\repos\StreamsFilesAndDirectories\Directory_Traversal\obj\Debug\netcoreapp3.1\Directory_Traversal.genruntimeconfig.cache
+C:\Users\A474627\source\repos\StreamsFilesAndDirectories\Directory_Traversal\obj\Debug\netcoreapp3.1\Directory_Traversal.csprojAssemblyReference.cache

@@ -1,0 +1,12 @@
+C:\Users\A474627\source\repos\StreamsFilesAndDirectories\CopyBinaryFile\bin\Debug\netcoreapp3.1\CopyBinaryFile.exe
+C:\Users\A474627\source\repos\StreamsFilesAndDirectories\CopyBinaryFile\bin\Debug\netcoreapp3.1\CopyBinaryFile.deps.json
+C:\Users\A474627\source\repos\StreamsFilesAndDirectories\CopyBinaryFile\bin\Debug\netcoreapp3.1\CopyBinaryFile.runtimeconfig.json
+C:\Users\A474627\source\repos\StreamsFilesAndDirectories\CopyBinaryFile\bin\Debug\netcoreapp3.1\CopyBinaryFile.runtimeconfig.dev.json
+C:\Users\A474627\source\repos\StreamsFilesAndDirectories\CopyBinaryFile\bin\Debug\netcoreapp3.1\CopyBinaryFile.dll
+C:\Users\A474627\source\repos\StreamsFilesAndDirectories\CopyBinaryFile\bin\Debug\netcoreapp3.1\CopyBinaryFile.pdb
+C:\Users\A474627\source\repos\StreamsFilesAndDirectories\CopyBinaryFile\obj\Debug\netcoreapp3.1\CopyBinaryFile.AssemblyInfoInputs.cache
+C:\Users\A474627\source\repos\StreamsFilesAndDirectories\CopyBinaryFile\obj\Debug\netcoreapp3.1\CopyBinaryFile.AssemblyInfo.cs
+C:\Users\A474627\source\repos\StreamsFilesAndDirectories\CopyBinaryFile\obj\Debug\netcoreapp3.1\CopyBinaryFile.csproj.CoreCompileInputs.cache
+C:\Users\A474627\source\repos\StreamsFilesAndDirectories\CopyBinaryFile\obj\Debug\netcoreapp3.1\CopyBinaryFile.dll
+C:\Users\A474627\source\repos\StreamsFilesAndDirectories\CopyBinaryFile\obj\Debug\netcoreapp3.1\CopyBinaryFile.pdb
+C:\Users\A474627\source\repos\StreamsFilesAndDirectories\CopyBinaryFile\obj\Debug\netcoreapp3.1\CopyBinaryFile.genruntimeconfig.cache

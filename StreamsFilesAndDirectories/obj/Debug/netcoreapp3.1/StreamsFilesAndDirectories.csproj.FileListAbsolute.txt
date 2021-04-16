@@ -1,0 +1,13 @@
+C:\Users\A474627\source\repos\StreamsFilesAndDirectories\StreamsFilesAndDirectories\bin\Debug\netcoreapp3.1\StreamsFilesAndDirectories.exe
+C:\Users\A474627\source\repos\StreamsFilesAndDirectories\StreamsFilesAndDirectories\bin\Debug\netcoreapp3.1\StreamsFilesAndDirectories.deps.json
+C:\Users\A474627\source\repos\StreamsFilesAndDirectories\StreamsFilesAndDirectories\bin\Debug\netcoreapp3.1\StreamsFilesAndDirectories.runtimeconfig.json
+C:\Users\A474627\source\repos\StreamsFilesAndDirectories\StreamsFilesAndDirectories\bin\Debug\netcoreapp3.1\StreamsFilesAndDirectories.runtimeconfig.dev.json
+C:\Users\A474627\source\repos\StreamsFilesAndDirectories\StreamsFilesAndDirectories\bin\Debug\netcoreapp3.1\StreamsFilesAndDirectories.dll
+C:\Users\A474627\source\repos\StreamsFilesAndDirectories\StreamsFilesAndDirectories\bin\Debug\netcoreapp3.1\StreamsFilesAndDirectories.pdb
+C:\Users\A474627\source\repos\StreamsFilesAndDirectories\StreamsFilesAndDirectories\obj\Debug\netcoreapp3.1\StreamsFilesAndDirectories.csprojAssemblyReference.cache
+C:\Users\A474627\source\repos\StreamsFilesAndDirectories\StreamsFilesAndDirectories\obj\Debug\netcoreapp3.1\StreamsFilesAndDirectories.AssemblyInfoInputs.cache
+C:\Users\A474627\source\repos\StreamsFilesAndDirectories\StreamsFilesAndDirectories\obj\Debug\netcoreapp3.1\StreamsFilesAndDirectories.AssemblyInfo.cs
+C:\Users\A474627\source\repos\StreamsFilesAndDirectories\StreamsFilesAndDirectories\obj\Debug\netcoreapp3.1\StreamsFilesAndDirectories.csproj.CoreCompileInputs.cache
+C:\Users\A474627\source\repos\StreamsFilesAndDirectories\StreamsFilesAndDirectories\obj\Debug\netcoreapp3.1\StreamsFilesAndDirectories.dll
+C:\Users\A474627\source\repos\StreamsFilesAndDirectories\StreamsFilesAndDirectories\obj\Debug\netcoreapp3.1\StreamsFilesAndDirectories.pdb
+C:\Users\A474627\source\repos\StreamsFilesAndDirectories\StreamsFilesAndDirectories\obj\Debug\netcoreapp3.1\StreamsFilesAndDirectories.genruntimeconfig.cache

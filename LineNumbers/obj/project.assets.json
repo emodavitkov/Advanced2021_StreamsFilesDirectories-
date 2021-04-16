@@ -13,9 +13,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\A474627\\source\\repos\\StreamsFilesAndDirectories\\LineNumbers\\LineNumbers.csproj",
-      "projectName": "LineNumbers",
-      "projectPath": "C:\\Users\\A474627\\source\\repos\\StreamsFilesAndDirectories\\LineNumbers\\LineNumbers.csproj",
+      "projectUniqueName": "C:\\Users\\A474627\\source\\repos\\StreamsFilesAndDirectories\\LineNumbers\\LineNumbersTest.csproj",
+      "projectName": "LineNumbersTest",
+      "projectPath": "C:\\Users\\A474627\\source\\repos\\StreamsFilesAndDirectories\\LineNumbers\\LineNumbersTest.csproj",
       "packagesPath": "C:\\Users\\A474627\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\A474627\\source\\repos\\StreamsFilesAndDirectories\\LineNumbers\\obj\\",
       "projectStyle": "PackageReference",
